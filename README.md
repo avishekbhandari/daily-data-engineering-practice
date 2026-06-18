@@ -1,1 +1,1 @@
-# learning_journey
+# daily-data-engineering-practice
