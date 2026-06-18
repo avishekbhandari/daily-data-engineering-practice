@@ -1,0 +1,7 @@
+customer_id,customer_name,email,city
+1, Avishek Bhandari , avishek@example.com ,Detroit
+2, John Smith,john@example.com,Chicago
+3,,missingname@example.com,Boston
+4, Sara Khan, ,New York
+5, Avishek Bhandari , avishek@example.com ,Detroit
+6, Maria Lopez,maria@example.com,Dallas
