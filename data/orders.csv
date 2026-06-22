@@ -1,0 +1,11 @@
+order_id,customer_id,product_category,order_amount,order_status
+1001,1,Electronics,1200.50,Completed
+1002,2,Furniture,750.00,Completed
+1003,3,Electronics,300.00,Cancelled
+1004,1,Stationery,45.75,Completed
+1005,4,Furniture,600.25,Completed
+1006,2,Electronics,999.99,Completed
+1007,5,Stationery,30.00,Pending
+1008,3,Furniture,450.00,Completed
+1009,1,Electronics,1500.00,Completed
+1010,4,Stationery,80.00,Completed
